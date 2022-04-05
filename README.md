@@ -1,6 +1,6 @@
 # Java MVC Graph Editor
 
-**Final lab project for RUG.nl/OOP course.**
+**Final lab project for the Object Oriented Programming course.**
 
 A graph editor (desktop GUI App) made with Java following the MVC pattern.
 
