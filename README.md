@@ -10,7 +10,7 @@ Using the keyboard and/or mouse the user should be able to edit graphs as well a
 
 In addition to that, copy/cut/paste and undo/redo funcionalities are also implemented.
 
-The assignment report is available at [docs/report/Graph_Editor_Final_Assignment_Report.pdf](https://github.com/AndresSalinas97/Java-MVC-Graph-Editor/blob/master/docs/report/Graph_Editor_Final_Assignment_Report.pdf).
+The assignment report is available at [docs/report/Graph_Editor_Final_Assignment_Report.pdf](docs/report/Graph_Editor_Final_Assignment_Report.pdf).
 
 ## Authors
 
